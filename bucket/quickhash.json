@@ -5,13 +5,6 @@
     "license": "GPL-2.0",
     "url": "https://quickhash-gui.org/download/quickhash-v3-1-0-windows/?wpdmdl=1934&refresh=5de066bf8ef861574987455",
     "hash": "sha1:F876A9137A47595E2F6FE82F39319799B42C46ED",
-    "architecture" : {
-        "64bit": {
-            "pre_install": [
-                "Expand-7zipArchive \"$dir\\`QuickHash-64-Bit\" \"$dir\""
-            ]
-        }
-    },
     "bin": "quickhash.exe",
     "shortcuts": [
         [
