@@ -1,0 +1,22 @@
+{
+    "version": "3.1.0",
+    "homepage": "https://quickhash-gui.org/",
+    "description": "Graphical cross platform data hashing tool for Linux, Windows and Mac",
+    "license": "GPL-2.0",
+    "url": "https://quickhash-gui.org/download/quickhash-v3-1-0-windows/?wpdmdl=1934&refresh=5de066bf8ef861574987455",
+    "hash": "20bc1b53b363bf7af25d8752734d8dfc7135a9d1b6628c4a79ebb784fa881713",
+    "architecture" : {
+        "64bit": {
+            "pre_install": [
+                "Expand-7zipArchive \"$dir\\`QuickHash-64-Bit\" \"$dir\""
+            ]
+        }
+    },
+    "bin": "quickhash.exe",
+    "shortcuts": [
+        [
+            "QuckHash.exe",
+            "QuckHash"
+        ]
+    ]
+} 
