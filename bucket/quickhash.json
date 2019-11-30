@@ -8,8 +8,8 @@
     "bin": "quickhash.exe",
     "shortcuts": [
         [
-            "QuckHash.exe",
-            "QuckHash"
+            "QuickHash.exe",
+            "QuickHash"
         ]
     ]
 } 
