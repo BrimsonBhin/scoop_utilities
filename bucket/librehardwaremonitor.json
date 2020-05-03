@@ -1,10 +1,10 @@
 {
-    "version": "1.0.158",
+    "version": "1.0.186",
     "homepage": "https://github.com/LibreHardwareMonitor/LibreHardwareMonitor",
     "description": "Libre Hardware Monitor, home of the fork of Open Hardware Monitor",
     "license": "MPL-2.0",
-    "url": "https://ci.appveyor.com/api/buildjobs/4mybkn3snqlndq7l/artifacts/bin%2FRelease.zip",
-    "hash": "e40bbe810785aa55dc6574798b4dcbd95bef75cbee551ea390e7c2156840a2d2",
+    "url": "https://ci.appveyor.com/api/buildjobs/wkev24bpdwryci2l/artifacts/bin%2FRelease.zip",
+    "hash": "8BDCB4C368F4436151210F62D0B46F29AC55B742430292DC1A6C3B16DC92E917",
     "bin": "LibreHardwareMonitor.exe",
     "shortcuts": [
         [
